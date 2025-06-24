@@ -89,8 +89,8 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
-            <h1>Elegant and creative solutions</h1>
-            <p>We are team of talented designers making websites with Bootstrap</p>
+            <h1>Point Of Sales</h1>
+            <p>Dengan menggunakan sistem POS, pemilik usaha dapat mencatat penjualan, mengelola stok barang, dan memantau laporan keuangan secara real-time.</p>
             <div class="d-flex">
               <a href="#about" class="btn-get-started">Get Started</a>
             </div>
@@ -113,24 +113,24 @@
           <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="100">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-activity icon"></i></div>
-              <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="" class="stretched-link">Pencatatan POS</a></h4>
+              <p>Dapat mencatat seluruh aktivitas transaksi dan operasional penjualan secara otomatis dan terstruktur.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-bounding-box-circles icon"></i></div>
-              <h4><a href="" class="stretched-link">Sed ut perspici</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="" class="stretched-link">Pengelolaan POS</a></h4>
+              <p>menjalankan sistem POS secara efektif agar operasional penjualan berjalan lancar, efisien, dan menghasilkan data yang akurat untuk pengambilan keputusan bisnis.</p>
             </div>
           </div><!-- End Service Item -->
 
           <div class="col-lg-4 d-flex" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
               <div class="icon"><i class="bi bi-calendar4-week icon"></i></div>
-              <h4><a href="" class="stretched-link">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="" class="stretched-link">Pendataan POS</a></h4>
+              <p>proses mencatat, menyusun, dan memperbarui semua data yang berkaitan dengan aktivitas penjualan, inventaris, pelanggan, dan operasional toko yang tercatat melalui sistem POS. Pendataan ini sangat penting untuk memastikan kelancaran bisnis dan akurasi dalam pelaporan.</p>
             </div>
           </div><!-- End Service Item -->
 
@@ -147,7 +147,7 @@
       <div class="container section-title" data-aos="fade-up">
         <span>About Us<br></span>
         <h2>About</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>POS (Point of Sales) adalah sistem yang digunakan untuk mencatat dan memproses transaksi penjualan antara penjual dan pembeli. Sistem ini umumnya digunakan di toko ritel, restoran, apotek, kafe, dan berbagai jenis usaha lainnya untuk menggantikan metode pencatatan manual.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -155,23 +155,19 @@
         <div class="row gy-4">
           <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
             <img src="assets/img/about.png" class="img-fluid" alt="">
-            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+            <a href="https://youtu.be/bE1aHLfWhT4?si=0Lw_Ib4m6O6UjtGV" class="glightbox pulsating-play-btn"></a>
           </div>
           <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>Beberapa fungsi utama dari POS </h3>
             <p class="fst-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              POS memiliki berbagai fungsi yang membantu dalam mengelola transaksi penjualan dan operasional bisnis. Beberapa fungsi utama dari POS antara lain:
             </p>
             <ul>
-              <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat.</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>Duis aute irure dolor in reprehenderit in voluptate velit.</span></li>
-              <li><i class="bi bi-check2-all"></i> <span>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>Mencatat Penjualan : Setiap pembelian yang dilakukan pelanggan langsung tercatat dalam sistem secara otomatis.</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>Mengelola Stok Barang : POS memantau jumlah barang yang masuk dan keluar secara real-time.</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>Menerima Pembayaran : Mendukung berbagai metode pembayaran seperti tunai, kartu debit/kredit, QRIS, atau dompet digital.</span></li>
+              <li><i class="bi bi-check2-all"></i> <span>Mempermudah Audit – Semua transaksi tercatat dan bisa ditelusuri kembali dengan mudah.</span></li>
             </ul>
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
-            </p>
           </div>
         </div>
 
