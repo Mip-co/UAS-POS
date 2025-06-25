@@ -204,7 +204,7 @@
       <div class="container section-title" data-aos="fade-up">
         <span>Services</span>
         <h2>Services</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Layanan terbaik dari POS Indonesia dirancang untuk memenuhi kebutuhan Anda dengan solusi yang andal, cepat, dan terpercaya — karena kepuasan Anda adalah prioritas kami.</p>
       </div><!-- End Section Title -->
 
       <div class="container">
