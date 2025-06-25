@@ -21,6 +21,7 @@ return new class extends Migration
             $table->integer('min_stok');
             $table->unsignedBigInteger('jenis_produk_id');
             $table->text('deskripsi')->nullable();
+            $table->string('foto')->nullable(); // kolom foto
             $table->timestamps();
 
             $table->foreign('jenis_produk_id')->references('id')->on('jenis_produks')->onDelete('cascade');

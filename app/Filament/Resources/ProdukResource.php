@@ -45,6 +45,10 @@ class ProdukResource extends Resource
                     ->required(),
                 Forms\Components\Textarea::make('deskripsi')
                     ->nullable(),
+                Forms\Components\FileUpload::make('foto')
+                    ->image()
+                    ->directory('produk-foto')
+                    ->nullable(),
             ]);
     }
 
@@ -61,6 +65,7 @@ class ProdukResource extends Resource
                 Tables\Columns\TextColumn::make('min_stok')->label('Min Stok'),
                 Tables\Columns\TextColumn::make('jenisProduk.nama')->label('Jenis Produk'),
                 Tables\Columns\TextColumn::make('deskripsi')->label('Deskripsi')->limit(30),
+                Tables\Columns\ImageColumn::make('foto')->label('Foto'), // tambahkan ini
             ])
             ->filters([
                 //
